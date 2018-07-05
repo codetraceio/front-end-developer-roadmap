@@ -1,6 +1,6 @@
-# Front-end Developer Roadmap
+# Front-End Developer Roadmap
 
-![Front-end Developer Roadmap](./images/front-end-roadmap.png)
+![Front-End Developer Roadmap](./images/front-end-roadmap.png)
 
 ## List of the Tutorials
 
