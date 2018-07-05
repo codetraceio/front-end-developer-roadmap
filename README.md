@@ -49,3 +49,7 @@
 [Data Structures](https://www.youtube.com/watch?v=Gj5qBheGOEo&list=PLWKjhJtqVAbkso-IbgiiP48n-O-JQA9PJ)
 
 [Design Patterns](https://www.youtube.com/watch?v=bgU7FeiWKzc&list=PLWKjhJtqVAbnZtkAI3BqcYxKnfWn_C704)
+
+## Contribution
+
+Feel free to use [Figma](https://www.figma.com/file/XZGSBMMowaRvVvoLw9rsnOV2/Front-End-Roadmap) or just [svg](./images/front-end-roadmap.svg) version to fork the image.
